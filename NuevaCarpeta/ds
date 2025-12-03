@@ -1,0 +1,13 @@
+def name(): #It is main function is to greet
+   
+    name = input("\nIngresa tu nombre: ")  
+    if name == "Rosita" or name == "Julieth":
+      print("Hola, pequeña Rosita Julieth")
+
+    else:
+      print(f"Hello {name}")
+     
+name()
+name()
+name()
+
