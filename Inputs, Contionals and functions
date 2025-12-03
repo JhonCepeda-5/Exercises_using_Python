@@ -1,0 +1,9 @@
+def age(): #It is main function is take an age and after plus 30 for getting the age of 30 years in the future.
+    
+    age = int(input("\nIngresa tu edad:"))
+    
+    print(f"Su edad es {age + 30}")
+    
+age()
+age()
+age()    
